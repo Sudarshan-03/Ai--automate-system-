@@ -1,0 +1,6 @@
+{
+  "name": "Sudu EarnFlow AI",
+  "description": "AI-powered opportunity intelligence platform to discover legitimate online earning opportunities, evaluate eligibility, detect risks, and track earnings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
